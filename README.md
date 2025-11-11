@@ -142,10 +142,10 @@ Before you begin, ensure you have:
 
 ```
 # HTTPS
-git clone https://github.com/yourusername/chartinsight-ai.git
+git clone https://github.com/AmirBayat0/chartinsight-ai.git
 
 # SSH
-git clone git@github.com:yourusername/chartinsight-ai.git
+git clone git@github.com:AmirBayat0/chartinsight-ai.git
 
 # Navigate to project
 cd chartinsight-ai
