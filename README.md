@@ -39,7 +39,6 @@ A beautiful, intuitive mobile app that:
 - ✅ Analyzes any trading chart in seconds
 - ✅ Identifies patterns, trends, and key levels
 - ✅ Suggests trades with entry, stop loss, and take profit levels
-- ✅ Works offline after analysis (results are cached)
 - ✅ Supports multiple asset classes
 
 ---
@@ -105,7 +104,6 @@ A beautiful, intuitive mobile app that:
 - **AI Model**: Google Gemini 1.5 Pro (Multimodal)
 - **HTTP Client**: Dio 5.5+
 - **Image Handling**: image_picker 1.1+
-- **Environment Config**: flutter_dotenv 5.1+
 
 ### Architecture
 - **Pattern**: GetX MVC with Clean Architecture
