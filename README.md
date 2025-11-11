@@ -80,15 +80,14 @@ A beautiful, intuitive mobile app that:
 
 | Upload Screen | Analyzing | Results Screen |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/upload_screen.png" width="250"> | <img src="docs/screenshots/analyzing.png" width="250"> | <img src="docs/screenshots/results.png" width="250"> |
+| <img src="https://github.com/user-attachments/assets/7eb9b5dd-f642-4a1b-82f1-2ffbeb3323a3" width="250"> | <img src="https://github.com/user-attachments/assets/c50b9e23-3977-442a-a249-4245baa72bab" width="250"> | <img src="https://github.com/user-attachments/assets/96e60b26-962f-4ece-971a-050f3eca5af4" width="250"> |
 
 | Chart Preview | Trade Signal | Analysis Details |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/preview.png" width="250"> | <img src="docs/screenshots/signal.png" width="250"> | <img src="docs/screenshots/details.png" width="250"> |
+| <img src="https://github.com/user-attachments/assets/279b8db7-5e43-4bc5-a688-22f717f84339" width="250"> | <img src="https://github.com/user-attachments/assets/36adb45c-0d2a-4a28-9ce3-c09e6c3c0e0b" width="250"> | <img src="https://github.com/user-attachments/assets/faa9522a-6f58-4c92-95e5-ad6cefc45f5f" width="250"> |
 
 </div>
 
-> 💡 **Note**: Screenshots coming soon! App is fully functional.
 
 ---
 
